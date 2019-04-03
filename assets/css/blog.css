@@ -1,0 +1,41 @@
+/* This is the websites blog!*/
+.no-padding{
+    padding:0;
+    margin:0;
+}
+.bg-color{
+    background-color:rgb(205, 252, 255);
+}
+.bg-color1{
+    background-color:#f1f1f1;
+}    
+.blog-navbar-styling{
+    position:sticky;
+    height:100%;
+    background-color:rgb(221, 221, 221);
+    opacity:0.9;
+    text-decoration-color:white;
+    font-size:120%;
+    padding:
+    
+    
+    
+}
+p{
+    font-size:.85em;
+}
+.row.content {height: 1500px}
+
+/* Set gray background color and 100% height */
+.sidenav {
+  background-color: #f1f1f1;
+  height: 100%;
+}
+
+@media screen and (max-width: 767px) {
+    .sidenav {
+      height: auto;
+      padding: 15px;
+    }
+    .row.content {height: auto;} 
+  }

@@ -1,0 +1,252 @@
+
+ <!-- Loading Font Icons -->
+  <link href="assets/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+  
+  <!-- Include all css plugins (below), or include individual files as needed -->
+  <link href="assets/css/flickity.min.css" rel="stylesheet" type="text/css">
+  <link href="assets/css/magnific-popup.css" rel="stylesheet" type="text/css">
+   <!-- Main CSS -->
+   <link href="assets/css/dione_main.css" rel="stylesheet" type="text/css">
+   <link href="assets/css/dione_style.css" rel="stylesheet" type="text/css">
+   
+   <!-- Color Skins CSS -->
+   <link href="assets/css/dione_color_green.css" rel="stylesheet" type="text/css">
+  
+
+
+
+
+
+
+
+
+
+<!-- Section - FAQ Start -->
+<section id="faq" class="bg-white">
+    <div class="container">
+        <div class="row no-padding-rl no-padding-top padding-8">
+            <div class="col-md-8 col-md-offset-2 text-center">
+                <h3 class="font-family-alt font-weight-700 letter-spacing-2 text-uppercase xs-title-small title-medium title-sideline-base-color">FAQ</h3>
+                <p class="font-family-alt margin-3 no-margin-bottom no-margin-rl text-gray-dark-2 text-large">Here is a list of answers to frequently asked questions about the conference.<br>Lorem Ipsum has been the industry's standard dummy text.</p>
+            </div>
+            <!-- //.col-md-8 -->
+        </div>
+        <!-- //.row -->
+        
+        <div class="row">
+            <div class="col-sm-4 margin-5 no-margin-rl no-margin-top">
+                <ul class="nav nav-pills nav-stacked font-family-alt font-weight-700 display-block letter-spacing-2 margin-3 sm-no-margin no-margin-left no-margin-tb text-small text-uppercase" role="tablist">
+                    <li role="presentation" class="active no-margin">
+                        <a href="#tab-one" aria-controls="tab-one" role="tab" data-toggle="tab" class="border border-gray-light no-border-bottom no-border-radius" aria-expanded="false">01. General FAQ</a>
+                    </li>
+                    <li role="presentation" class="no-margin">
+                        <a href="#tab-two" aria-controls="tab-two" role="tab" data-toggle="tab" class="border border-gray-light no-border-radius" aria-expanded="false">02. Registration</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- //.col-sm-4 -->
+            
+            <div class="col-sm-8">
+                <div class="tab-content">
+                    <div role="tabpanel" class="tab-pane fade active in" id="tab-one">
+                        <!-- Accordion Start -->
+                        <div class="panel-group position-relative" id="accordion-one" role="tablist">
+                            <div class="panel active" role="tab" id="accordion-one-heading-1">
+                                <div class="panel-heading ease">
+                                    <div class="panel-title display-block">
+                                        <a class="font-family-alt font-weight-700 letter-spacing-2 text-small text-uppercase" role="button" data-toggle="collapse" data-parent="#accordion-one" href="#accordion-one-collapse-1" aria-controls="accordion-one-collapse-1">When will the conference program details be announced?</a>
+                                    </div>
+                                    <!-- //.panel-title -->
+                                </div>
+                                <!-- //.panel-heading -->
+
+                                <div id="accordion-one-collapse-1" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="accordion-one-heading-1">
+                                    <div class="panel-body">
+                                        <p class="text-gray-dark-2 text-large">Lorem Ipsum has been the dione conference and event template standard dummy text. As they become available, information can be found on the lorem ipsum page.</p>
+                                    </div>
+                                    <!-- //.panel-body -->
+                                </div>
+                                <!-- //.panel-collapse -->
+                            </div>
+                            <!-- //.panel -->
+
+                            <div class="panel" role="tab" id="accordion-one-heading-2">
+                                <div class="panel-heading ease">
+                                    <div class="panel-title display-block">
+                                        <a class="collapsed font-family-alt font-weight-700 letter-spacing-2 text-small text-uppercase" role="button" data-toggle="collapse" data-parent="#accordion-one" href="#accordion-one-collapse-2" aria-controls="accordion-one-collapse-2">Can I view the sessions I registered for online?</a>
+                                    </div>
+                                    <!-- //.panel-title -->
+                                </div>
+                                <!-- //.panel-heading -->
+
+                                <div id="accordion-one-collapse-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="accordion-one-heading-2">
+                                    <div class="panel-body">
+                                        <p class="text-gray-dark-2 text-large">The confirmation email you receive at the time you register will include a link to your registration record. You can also log in to view lorem Ipsum has been the dione conference and event template standard dummy text.</p>
+                                    </div>
+                                    <!-- //.panel-body -->
+                                </div>
+                                <!-- //.panel-collapse -->
+                            </div>
+                            <!-- //.panel -->
+
+                            <div class="panel" role="tab" id="accordion-one-heading-3">
+                                <div class="panel-heading ease">
+                                    <div class="panel-title display-block">
+                                        <a class="collapsed font-family-alt font-weight-700 letter-spacing-2 text-small text-uppercase" role="button" data-toggle="collapse" data-parent="#accordion-one" href="#accordion-one-collapse-3" aria-controls="accordion-one-collapse-3">Will a packet be mailed to us before the conference?</a>
+                                    </div>
+                                    <!-- //.panel-title -->
+                                </div>
+                                <!-- //.panel-heading -->
+
+                                <div id="accordion-one-collapse-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="accordion-one-heading-3">
+                                    <div class="panel-body">
+                                        <p class="text-gray-dark-2 text-large">All conference materials will be distributed onsite when you check in at registration. This includes a full conference program and daily schedule-at-a-glance.</p>
+                                    </div>
+                                    <!-- //.panel-body -->
+                                </div>
+                                <!-- //.panel-collapse -->
+                            </div>
+                            <!-- //.panel -->
+                            
+                            <div class="panel" role="tab" id="accordion-one-heading-4">
+                                <div class="panel-heading ease">
+                                    <div class="panel-title display-block">
+                                        <a class="collapsed font-family-alt font-weight-700 letter-spacing-2 text-small text-uppercase" role="button" data-toggle="collapse" data-parent="#accordion-one" href="#accordion-one-collapse-4" aria-controls="accordion-one-collapse-4">Is video of speakers from Dione conferences available?</a>
+                                    </div>
+                                    <!-- //.panel-title -->
+                                </div>
+                                <!-- //.panel-heading -->
+
+                                <div id="accordion-one-collapse-4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="accordion-one-heading-4">
+                                    <div class="panel-body">
+                                        <p class="text-gray-dark-2 text-large">Lorem Ipsum has been the dione conference and event template standard dummy text. To share the content from the conference with a wider audience and allow attendees to relive the experience, Dione will make every effort to post video of all the main stage presentations on the Dione website.</p>
+                                    </div>
+                                    <!-- //.panel-body -->
+                                </div>
+                                <!-- //.panel-collapse -->
+                            </div>
+                            <!-- //.panel -->
+                            
+                            <div class="panel" role="tab" id="accordion-one-heading-5">
+                                <div class="panel-heading ease">
+                                    <div class="panel-title display-block">
+                                        <a class="collapsed font-family-alt font-weight-700 letter-spacing-2 text-small text-uppercase" role="button" data-toggle="collapse" data-parent="#accordion-one" href="#accordion-one-collapse-5" aria-controls="accordion-one-collapse-5">How do you select speakers for the conference?</a>
+                                    </div>
+                                    <!-- //.panel-title -->
+                                </div>
+                                <!-- //.panel-heading -->
+
+                                <div id="accordion-one-collapse-5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="accordion-one-heading-5">
+                                    <div class="panel-body">
+                                        <p class="text-gray-dark-2 text-large">Lorem Ipsum has been the dione conference and event template standard dummy text. Over time we have drawn further afield in seeking speakers who are inspirational, informative, and provocative.</p>
+                                    </div>
+                                    <!-- //.panel-body -->
+                                </div>
+                                <!-- //.panel-collapse -->
+                            </div>
+                            <!-- //.panel -->
+                        </div>
+                        <!-- //Accordion End -->
+                    </div>
+                    <!-- //.tab-pane -->
+                    
+                    <div role="tabpanel" class="tab-pane fade" id="tab-two">
+                        <!-- Accordion Start -->
+                        <div class="panel-group position-relative" id="accordion-two" role="tablist">
+                            <div class="panel active" role="tab" id="accordion-two-heading-1">
+                                <div class="panel-heading ease">
+                                    <div class="panel-title display-block">
+                                        <a class="font-family-alt font-weight-700 letter-spacing-2 text-small text-uppercase" role="button" data-toggle="collapse" data-parent="#accordion-two" href="#accordion-two-collapse-1" aria-controls="accordion-two-collapse-1">Can we get a discount for group registrations?</a>
+                                    </div>
+                                    <!-- //.panel-title -->
+                                </div>
+                                <!-- //.panel-heading -->
+
+                                <div id="accordion-two-collapse-1" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="accordion-two-heading-1">
+                                    <div class="panel-body">
+                                        <p class="text-gray-dark-2 text-large">At this time, there are no discounted group rates for the Dione Conference.</p>
+                                    </div>
+                                    <!-- //.panel-body -->
+                                </div>
+                                <!-- //.panel-collapse -->
+                            </div>
+                            <!-- //.panel -->
+
+                            <div class="panel" role="tab" id="accordion-two-heading-2">
+                                <div class="panel-heading ease">
+                                    <div class="panel-title display-block">
+                                        <a class="collapsed font-family-alt font-weight-700 letter-spacing-2 text-small text-uppercase" role="button" data-toggle="collapse" data-parent="#accordion-two" href="#accordion-two-collapse-2" aria-controls="accordion-two-collapse-2">Can I register by mail?</a>
+                                    </div>
+                                    <!-- //.panel-title -->
+                                </div>
+                                <!-- //.panel-heading -->
+
+                                <div id="accordion-two-collapse-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="accordion-two-heading-2">
+                                    <div class="panel-body">
+                                        <p class="text-gray-dark-2 text-large">If you prefer to register by mail or fax, a PDF form is available by request: please lorem Ipsum has been the dione conference and event template standard dummy text.</p>
+                                    </div>
+                                    <!-- //.panel-body -->
+                                </div>
+                                <!-- //.panel-collapse -->
+                            </div>
+                            <!-- //.panel -->
+                            
+                            <div class="panel" role="tab" id="accordion-two-heading-3">
+                                <div class="panel-heading ease">
+                                    <div class="panel-title display-block">
+                                        <a class="collapsed font-family-alt font-weight-700 letter-spacing-2 text-small text-uppercase" role="button" data-toggle="collapse" data-parent="#accordion-two" href="#accordion-two-collapse-3" aria-controls="accordion-two-collapse-3">What do registration fees cover and how are they set?</a>
+                                    </div>
+                                    <!-- //.panel-title -->
+                                </div>
+                                <!-- //.panel-heading -->
+
+                                <div id="accordion-two-collapse-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="accordion-two-heading-3">
+                                    <div class="panel-body">
+                                        <p class="text-gray-dark-2 text-large">Lorem Ipsum has been the dione conference and event template standard dummy text. Continental breakfast and light refreshment breaks will be provided; lunch and dinner are on your own. The fees are set to make the experience both memorable and affordable.</p>
+                                    </div>
+                                    <!-- //.panel-body -->
+                                </div>
+                                <!-- //.panel-collapse -->
+                            </div>
+                            <!-- //.panel -->
+                            
+                            <div class="panel" role="tab" id="accordion-two-heading-4">
+                                <div class="panel-heading ease">
+                                    <div class="panel-title display-block">
+                                        <a class="collapsed font-family-alt font-weight-700 letter-spacing-2 text-small text-uppercase" role="button" data-toggle="collapse" data-parent="#accordion-two" href="#accordion-two-collapse-4" aria-controls="accordion-two-collapse-4">Do you offer any comp registrations?</a>
+                                    </div>
+                                    <!-- //.panel-title -->
+                                </div>
+                                <!-- //.panel-heading -->
+
+                                <div id="accordion-two-collapse-4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="accordion-two-heading-4">
+                                    <div class="panel-body">
+                                        <p class="text-gray-dark-2 text-large">We do not offer complimentary registrations to anyone, including board members and chapter leadership.</p>
+                                    </div>
+                                    <!-- //.panel-body -->
+                                </div>
+                                <!-- //.panel-collapse -->
+                            </div>
+                            <!-- //.panel -->
+                        </div>
+                        <!-- //Accordion End -->
+                    </div>
+                    <!-- //.tab-pane -->
+                </div>
+                <!-- //.tab-content -->
+            </div>
+            <!-- //.col-sm-8 -->
+        </div>
+        <!-- //.row -->
+        
+        <div class="row margin-6 no-margin-bottom no-margin-rl">
+            <div class="col-md-10 col-md-offset-1 text-center">
+                <p class="font-weight-300 title-extra-large">If you still have unanswered questions after reading this page, please <a href="#contact" class="page-scroll display-inline-block title-underline-base-color">contact us</a>.</p>
+            </div>
+            <!-- //.col-md-10 -->
+        </div>
+        <!-- //.row -->
+    </div>
+    <!-- //.container -->
+</section>
+<!-- //Section - FAQ End -->
